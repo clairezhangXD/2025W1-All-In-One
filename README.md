@@ -1,4 +1,4 @@
-<img width="555" height="572" alt="image" src="https://github.com/user-attachments/assets/d462d21d-d0d8-4e93-b950-05e9f990a455" /># 2025W1-All-In-One
+W1-All-In-One
 
 ## Claire's Takeaways
 * Worked as a Product Manager, responsible for:
