@@ -1,27 +1,47 @@
-# 2025W1-All-In-One
+<img width="555" height="572" alt="image" src="https://github.com/user-attachments/assets/d462d21d-d0d8-4e93-b950-05e9f990a455" /># 2025W1-All-In-One
+
+## Claire's Takeaways
+* Worked as a Product Manager, responsible for:
+- clarifying client requirements
+- writing user stories
+- breaking user stories into tasks
+- creating a project roadmap
+- low-fidelity and high-fidelity design
+* React
+* MongoDB
+* Meteor JS
+
+## Key features I worked on
+low-fidelity design and user flows across the entire website
+<img width="746" height="732" alt="image" src="https://github.com/user-attachments/assets/89f8a6d0-1f76-41b5-bd1c-f59336dcb36c" />
+
+high-fidelity design and user flows across the entire website, including agent's dashboard, adding a property listing and tenant's tickets.
+<img width="1188" height="761" alt="image" src="https://github.com/user-attachments/assets/dd6ba172-c0db-447b-842e-1230beaceb89" />
+
+Login and sign up
+<img width="1349" height="723" alt="image" src="https://github.com/user-attachments/assets/635a4ba6-4618-42b0-b5bc-65c9aa74be69" />
+
+
+Tickets system - enable tenants to log tickets for their specific property, which are stored in the database to enable it to appear on the agent's dashboard
+<img width="975" height="686" alt="image" src="https://github.com/user-attachments/assets/ea81ef17-186a-4684-a993-0785d00dadb7" />
+<img width="975" height="718" alt="image" src="https://github.com/user-attachments/assets/bdeae53f-ff80-4b88-8316-a8a4fc2dc834" />
+
+Scheduling an activity (on agent's calendar) 
+<img width="975" height="733" alt="image" src="https://github.com/user-attachments/assets/51d6689e-efde-43b0-939e-238ea6e02e85" />
+<img width="975" height="733" alt="image" src="https://github.com/user-attachments/assets/392615bc-5189-4cb1-a339-947b622e560c" />
+
+Expression of Interest (EOI) - tenant logs an EOI for a property they are interested in, agent can action it by creating a private or public open house activity.
+<img width="562" height="588" alt="image" src="https://github.com/user-attachments/assets/df709ed4-7c85-4e83-a219-c36b77810494" />
+<img width="562" height="588" alt="image" src="https://github.com/user-attachments/assets/0d179379-edb2-4141-ac61-1285524a5821" />
+
 
 ## Link to Deployed Application
 All-In-One --> https://all-in-one.meteorapp.com/
-
-## Members
-Brandon Luu - bluu0013@student.monash.edu  
-Naailah Taqui Hasan - nhas0021@student.monash.edu  
-Aryan Chordia - acho0098@student.monash.edu  
-Nicolas Winarto - nwin0008@student.monash.edu  
-Kenuli Wijegunarathne - kwij0022@student.monash.edu  
-Claire Zhang - czha0152@student.monash.edu  
-Charlotte Evans - ceva0014@student.monash.edu  
-Tarini Mehta - tmeh0003@student.monash.edu  
-Vanshika Gupta - vgup0011@student.monash.edu  
-Ryani Fernandopulle - rfer0035@student.monash.edu  
-Stefani Rijab - srij0001@student.monash.edu  
-Thytus Benjamin - tben0015@student.monash.edu
 
 ## Introduction
 
 The All In One application is a property management platform designed to streamline interactions between landlords, tenants, and agents within a single integrated system. By consolidating application, communication, property listings, tenant requests, and administrative workflows into one application, the platform aims to reduce inefficiencies and improve the overall property management experience.
 The primary purpose of this document is to support future developers by providing the technical and procedural knowledge necessary to understand, run, and extend the system. Unlike standard user documentation, this handover documentation is developer-focused. It outlines the required software and hardware environments, provides step-by-step setup and deployment instructions, identifies common pitfalls, and highlights ongoing development considerations. By following this document, future contributors should be able to quickly run the application, understand its high-level architecture, and start contributing effectively.
-
 
 ## Local Installation
 
