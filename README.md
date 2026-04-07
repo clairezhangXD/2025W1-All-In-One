@@ -35,9 +35,6 @@ Expression of Interest (EOI) - tenant logs an EOI for a property they are intere
 <img width="562" height="588" alt="image" src="https://github.com/user-attachments/assets/0d179379-edb2-4141-ac61-1285524a5821" />
 
 
-## Link to Deployed Application
-All-In-One --> https://all-in-one.meteorapp.com/
-
 ## Introduction
 
 The All In One application is a property management platform designed to streamline interactions between landlords, tenants, and agents within a single integrated system. By consolidating application, communication, property listings, tenant requests, and administrative workflows into one application, the platform aims to reduce inefficiencies and improve the overall property management experience.
@@ -370,8 +367,6 @@ Our final integration follows a **two-step merge process** rather than merging a
 **Staging URL:** [https://all-in-one.meteorapp.com/](https://all-in-one.meteorapp.com/)  
 **Drive Folder:** [Google Drive Folder](https://drive.google.com/drive/u/0/folders/1C3975g9mkwQXP0bz3upCeNzryFYqGf5C) *  
 **Other Systems (ClickUp):** [https://app.clickup.com/9016824431/home](https://app.clickup.com/9016824431/home) *
-
-> \* Request access for the links above.
 
 ---
 
